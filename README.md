@@ -5,6 +5,7 @@ A small project i made using C
 
 # Running locally
 Running locally requires ffmpeg and stb_image.h to be installed
+OR typing **./bad_apple** in terminal would still work 
 
 1. Create a directory named **video_frames**
 ```bash
