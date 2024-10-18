@@ -4,7 +4,7 @@ A small project i made using C
 
 
 # Running locally
-Running locally requires ffmpeg to be installed
+Running locally requires ffmpeg and stb_image.h to be installed
 
 1. Create a directory named **video_frames**
 ```bash
